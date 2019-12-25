@@ -1,1 +1,3 @@
-# This repository contains ER diagram
+
+# Architecture and coding
+
