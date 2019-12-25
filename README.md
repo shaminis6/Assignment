@@ -1,1 +1,1 @@
-# Assignment
+# This repository contains ER diagram
